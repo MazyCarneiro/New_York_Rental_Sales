@@ -1,9 +1,3 @@
-################################################################
-# BIG DATA APPLICATIONS COURSEWORK 2                            #
-# DUE DATE - 18th April 2019                                    #
-# LECTURER - AARON GEROW                                        #
-#################################################################
-
 # PRINT START TIME
 import datetime
 datetime.datetime.now()
