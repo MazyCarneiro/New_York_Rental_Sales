@@ -1,8 +1,3 @@
-################################################################
-# BIG DATA APPLICATIONS COURSEWORK 2                            #
-# DUE DATE - 18th April 2019                                    #  
-# LECTURER - AARON GEROW                                        #
-#################################################################
 
 import pandas as pd  #Data Analysis and structure library 
 import csv           #Implements classes to read and write tabular data in csv format
